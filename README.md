@@ -11,7 +11,7 @@ I am a full-time student at ATU Donegal, pursuing my Master's in Big Data Analyt
 I am also proficient in Power BI and Tableau for data visualization. 
 
 
-Additionally, I have practical experience with low-level programming languages through embedded system design internships. 
+Additionally, I have practical experience with low-level programming languages through embedded system desiging internships. 
 
 
 I am looking for graduate roles in data analytics, software development, and embedded system design.
