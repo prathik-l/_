@@ -15,6 +15,17 @@ Additionally, I have practical experience with low-level programming languages t
 
 
 I am looking for graduate roles in data analytics, software development, and embedded system design.
+
+
+
+
+
+
+
+
+
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prathik-l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prathik-l//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/prathik_l/?igshid=YmMyMTA2M2Y%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/prathik_in)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/prathik-l/Prathik-Lathish-Babu/edit/main/README.md)  
 
  
