@@ -5,7 +5,16 @@
 
 
 
-I am a full-time student at ATU Donegal, pursuing my Master's in Big Data Analytics. I am a passionate programmer and have experience working with HTML5, CSS, C++, Python3, and R programming languages. I am also proficient in Power BI and Tableau for data visualization. Additionally, I have practical experience with low-level programming languages through embedded system design internships. I am looking for graduate roles in data analytics, software development, and embedded system design.
+I am a full-time student at ATU Donegal, pursuing my Master's in Big Data Analytics. I am a passionate programmer and have experience working with HTML5, CSS, C++, Python3, and R programming languages. 
+
+
+I am also proficient in Power BI and Tableau for data visualization. 
+
+
+Additionally, I have practical experience with low-level programming languages through embedded system design internships. 
+
+
+I am looking for graduate roles in data analytics, software development, and embedded system design.
 
 
 
